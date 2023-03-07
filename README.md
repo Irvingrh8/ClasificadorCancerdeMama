@@ -19,4 +19,4 @@ El contenido de este cuaderno seguirá el siguiente esquema:
     •	Grafica ROC
 •	Magnitud de los Coeficientes para ambos modelos.
 
-Gracias por el tiempo dedicado a la lectura de este notebook..
+Gracias por el tiempo dedicado a la lectura de este notebook.
